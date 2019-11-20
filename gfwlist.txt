@@ -8124,7 +8124,7 @@ ultrasurf
 ||chartjs.org
 ||getbootstrap.com
 ||inoreader.com
-||xinoassassin.me
+||blog.xinoassassin.me
 ||moegirl.org
 ||naiveweb.com
 ||bgmlist.com
